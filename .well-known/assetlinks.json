@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sain.sainvendor",
+    "sha256_cert_fingerprints":
+    ["4B:5C:77:3A:8D:AA:38:65:06:CB:31:CF:B2:48:6A:C2:45:9B:52:CE:E3:DF:11:BB:A6:9F:27:53:BB:CE:CF:3D"]
+  }
+}]
